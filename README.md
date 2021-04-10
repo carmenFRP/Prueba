@@ -1,17 +1,15 @@
 
 ```javascript
-console.log("Hola mundo");
+console.log("Prácticas de ED");
+```
+
+```csharp
+Console.WriteLine("*****************************")
 ```
 
 
+# Repositorio para entregar prácticas de ED
 
-# prueba
-*Esta es mi primera frase en cursiva*
-**Esta es mi primera frase en negrita**
-Holaaaaaa
-Carmen
-**Guapa, quiero decir, Miguel**
-Buenas tardes
 ```
 
 
