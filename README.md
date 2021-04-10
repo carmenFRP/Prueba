@@ -6,3 +6,7 @@ Carmen
 **Guapa, quiero decir, Miguel**
 Buenas tardes
 
+´´´javascript
+console.log("Hola mundo");
+
+
