@@ -9,6 +9,6 @@
 
 **Negrita**
 
-##Título de nivel 2
+## Título de nivel 2
 
 <span style="color:red">Debo salir en rojo</span>
